@@ -1,0 +1,42 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.title-nav{
+    color: rgb(204, 87, 71);
+    font-size: 40px;
+    
+}
+
+footer div table tbody tr td{
+    padding-right: 15px;
+    font-size: 18px;
+    text-align: center;
+    color: aliceblue;
+}
+.img-size{
+    width: 745px; height: 490px;
+}
+
+.line-separate{
+    padding-top: 1px; padding-bottom: 1px;
+    margin-bottom: 30px;
+}
+
+
+.vb{
+    background-color: #f3f3f3; 
+    margin-top: 2px;
+    margin-bottom: 2px;
+    height: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
